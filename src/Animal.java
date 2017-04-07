@@ -3,4 +3,5 @@
  */
 public class Animal {
     String name;
+    String zmiennaKasi;
 }
