@@ -8,4 +8,5 @@ public class Animal {
         this.name = name;
     }
     String zmiennaKasi;
+    String commitzGithuba;
 }
